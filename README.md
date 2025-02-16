@@ -5,7 +5,7 @@
   FILE STORE BOT
 </h1>
 	
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+To-FILE-STORE-BOT;A+Highly+Advance+File+Store+Bot;Made+By+Yt-@Tech_VJ!;With+Clone+Feature+Stream/Download+Link;Custom+Url+Shortner+Auto+Delete+Feature;A+Bot+With+Fully+Advanced+Feature!;Thank+You!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+To-FILE-STORE-BOT;A+Highly+Advance+File+Store+Bot;Made+By+Yt-@sneakycode!;With+Clone+Feature+Stream/Download+Link;Custom+Url+Shortner+Auto+Delete+Feature;A+Bot+With+Fully+Advanced+Feature!;Thank+You!)
 </p>
 
 ### Deploy Tutorial [Video Link](https://youtu.be/VxAn9VcYtQg)
@@ -85,9 +85,9 @@
 
 <b><details><summary>Tap On Me For See Credit</summary>
 
-💝 Credit Goes To [Tech VJ](https://telegram.me/sneakycode)
+💝 Credit Goes To [sneacky](https://telegram.me/sneakycode)
 
-🖍️ This Code Is Fully Written Or Coded And Public By [Tech VJ](https://telegram.me/sneakycode) So Don't Forgot To Give Credit
+🖍️ This Code Is Fully Written Or Coded And Public By [s](https://telegram.me/sneakycode) So Don't Forgot To Give Credit
 
 💖 And Thank You So Much To All Who Help In This Journey 💕
 
